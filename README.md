@@ -4,6 +4,9 @@ Youtube C kurs link
 
 https://www.youtube.com/playlist?list=PL5FRnzOULdYfzyeoaKFJmfeHJvwIwqK0a
 
+git add .
+git commit -m "test commit"
+git push
 
 
 ls (view directory)
